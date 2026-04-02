@@ -26,6 +26,4 @@ This lab focuses on performing data cleaning and preprocessing on the **Wine Qua
 - Applied **PCA** to reduce the dataset's dimensionality into 2 Principal Components (PC1, PC2) while retaining significant variance.
 
 
-## How to Run
-1. Upload the `WineQT.csv` file.
-2. Run the Jupyter Notebook/Colab cells in order.
+
